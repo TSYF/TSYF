@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tomás Yañez
-- 👀 I’m interested in Backend
-- 🌱 I’m currently learning PHP
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Node.js
 - 📫 How to reach me tomas.yanez.f@gmail.com
 
 <!---
