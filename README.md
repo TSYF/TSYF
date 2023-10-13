@@ -46,14 +46,14 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=TSYF&theme=tokyonight&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TSYF&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TSYF&theme=tokyonight&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=TSYF&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=TSYF&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
@@ -71,7 +71,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    [My skills!](https://skillicons.dev/icons?i=aws,gcp,git,bootstrap,css,sass,docker,express,firebase,github,html,idea,java,js,jquery,linux,md,mysql,postgres,nodejs,postman,py,django,vue,angular,php,laravel,ts,regex,vscode,vim,vite&perline=8)
+    <img alt="My skills!" src="(https://skillicons.dev/icons?i=aws,gcp,git,bootstrap,css,sass,docker,express,firebase,github,html,idea,java,js,jquery,linux,md,mysql,postgres,nodejs,postman,py,django,vue,angular,php,laravel,ts,regex,vscode,vim,vite&perline=8)" />
   </a>
 </p>
 
