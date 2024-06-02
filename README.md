@@ -71,7 +71,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img alt="My skills!" src="https://skillicons.dev/icons?i=aws,gcp,git,bootstrap,css,sass,docker,express,firebase,github,html,idea,java,js,jquery,linux,md,mysql,postgres,nodejs,postman,py,django,vue,angular,php,laravel,ts,regex,vscode,vim,vite&perline=8" />
+    <img alt="My skills!" src="https://skillicons.dev/icons?i=html,pug,css,sass,js,ts,php,py,go,java,c,nodejs,express,django,laravel,react,vue,angular,jquery,bootstrap,vuetify,regex,git,docker,vite,postman,nginx,linux,debian,redhat,arch,nix,mysql,postgres,md,aws,gcp,firebase,github,bitbucket,idea,vscode,vscodium,vim&perline=8" />
   </a>
 </p>
 
