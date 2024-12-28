@@ -71,7 +71,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img alt="My skills!" src="https://skillicons.dev/icons?i=html,pug,css,sass,js,ts,php,py,go,java,c,bash,nodejs,bun,express,django,laravel,react,vue,angular,jquery,rxjs,bootstrap,vuetify,mysql,postgres,sqlite,regex,git,docker,vite,postman,nginx,linux,debian,redhat,arch,nix,md,aws,gcp,firebase,github,bitbucket,idea,vscode,vscodium,vim&perline=8" />
+    <img alt="My skills!" src="https://skillicons.dev/icons?i=figma,html,pug,css,sass,js,ts,php,py,go,java,c,bash,rust,nodejs,deno,bun,express,fastapi,flask,django,laravel,actix,spring,react,vue,angular,jquery,rxjs,pinia,redux,bootstrap,vuetify,jest,vitest,cypress,sklearn,sequelize,mysql,postgres,sqlite,regex,cmake,maven,npm,yarn,pnpm,git,docker,vite,webpack,postman,nginx,linux,mint,ubuntu,debian,redhat,arch,kali,nix,md,aws,gcp,firebase,github,bitbucket,githubactions,idea,vscode,vscodium,vim,neovim,notion,obsidian&perline=15" />
   </a>
 </p>
 
@@ -104,4 +104,4 @@
 ----------------------------------------------------------------------
 Credit: [1010nishant](https://github.com/1010nishant)
 
-Last Edited on: 29/4/2023
+Last Edited on: 28/12/2024
